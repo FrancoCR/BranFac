@@ -15,7 +15,7 @@ Before you can submit flags, you have to discover the Bluetooth MAC address of y
 Tool and command used to collect kernel calls:   
 ```` strace  ````
 
-Tool and command used to fuzz input to the application 
+Tool and command used to fuzz input to the application:
 ```` monkey  ````
 
 Command used to transfer the logs out of our rooted device:  
