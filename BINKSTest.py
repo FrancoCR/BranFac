@@ -22,7 +22,7 @@ class predicter():
 
 #Example usage of class to make predictions.
 
-prediction = predicter("C:/Users/Franco/Desktop/UTD/Fall18/CS6332/MaliciousIdentifier.h5")
+prediction = predicter("path\to\BINKS.h5")
 
 def obtainLogInfo(textFile):
     AppLogs=[]
