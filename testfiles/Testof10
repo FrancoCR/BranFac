@@ -1,0 +1,56 @@
+[SteezeSandwhich@localhost Branfac]$ vim BINKSTest.py
+[SteezeSandwhich@localhost Branfac]$ python BINKSTest.py
+2018-11-27 12:20:55.543709: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+0
+[SteezeSandwhich@localhost Branfac]$ vim BINKSTest.py
+[SteezeSandwhich@localhost Branfac]$ python BINKSTest.py
+  File "BINKSTest.py", line 59
+    0.30074906, 0.,         0.01441948, 0.,         0.         0.,
+                                                                ^
+SyntaxError: invalid syntax
+[SteezeSandwhich@localhost Branfac]$ vim BINKSTest.py
+[SteezeSandwhich@localhost Branfac]$ python BINKSTest.py
+2018-11-27 12:29:17.444973: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+1
+[SteezeSandwhich@localhost Branfac]$ vim BINKSTest.py
+[SteezeSandwhich@localhost Branfac]$ python BINKSTest.py
+2018-11-27 12:33:33.294648: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+1
+[SteezeSandwhich@localhost Branfac]$ vim BINKSTest.py
+[SteezeSandwhich@localhost Branfac]$ python BINKSTest.py
+2018-11-27 12:34:39.339200: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+1
+[SteezeSandwhich@localhost Branfac]$ vim BINKSTest.py
+[SteezeSandwhich@localhost Branfac]$ python BINKSTest.py
+2018-11-27 12:35:13.745515: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+1
+[SteezeSandwhich@localhost Branfac]$ vim BINKSTest.py
+[SteezeSandwhich@localhost Branfac]$ python BINKSTest.py
+2018-11-27 12:36:02.743066: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+0
+[SteezeSandwhich@localhost Branfac]$ vim BINKSTest.py
+[SteezeSandwhich@localhost Branfac]$ python BINKSTest.py
+2018-11-27 12:36:41.053459: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+0
+[SteezeSandwhich@localhost Branfac]$ vim BINKSTest.py
+[SteezeSandwhich@localhost Branfac]$ python BINKSTest.py
+2018-11-27 12:37:13.873254: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+0
+[SteezeSandwhich@localhost Branfac]$ vim BINKSTest.py
+[SteezeSandwhich@localhost Branfac]$ python BINKSTest.py
+2018-11-27 12:37:50.410146: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+1
+[SteezeSandwhich@localhost Branfac]$ vim BINKSTest.py
+[SteezeSandwhich@localhost Branfac]$ python BINKSTest.py
+2018-11-27 12:39:13.405966: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+0
